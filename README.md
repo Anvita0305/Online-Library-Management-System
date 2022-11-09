@@ -1,5 +1,5 @@
 # Online-Library-Management-System
-To know more check the attached document.
+To know more check the attached [document](https://github.com/Anvita0305/Online-Library-Management-System/blob/main/DBMS%20PROJECT.docx).
 
 ## Tech Stack
 
